@@ -1,0 +1,6 @@
+﻿  ssc.cpp
+C:\Users\82103\Desktop\ssc_algorithm\ssc_algorithm\ssc.cpp(29,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\ssc_algorithm\ssc_algorithm\ssc.cpp(43,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\ssc_algorithm\ssc_algorithm\ssc.cpp(73,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\ssc_algorithm\ssc_algorithm\ssc.cpp(83,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ssc_algorithm.vcxproj -> C:\Users\82103\Desktop\ssc_algorithm\Debug\ssc_algorithm.exe
